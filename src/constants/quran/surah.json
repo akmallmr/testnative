@@ -1,0 +1,130 @@
+[
+  {
+    "key": 1,
+    "arabic": "الفاتحة",
+    "name": "Al-Fatihah",
+    "location": "Makkah",
+    "translate": "Pembukaan",
+    "total": 7
+  },
+  {
+    "key": 94,
+    "arabic": "الانشراح‎‎",
+    "name": "Al-Insyirah",
+    "location": "Makkah",
+    "translate": "Melapangkan",
+    "total": 8
+  },
+  {
+    "key": 95,
+    "arabic": "التِّينِ",
+    "name": "At-Tin",
+    "location": "Makkah",
+    "translate": "Buah Tin",
+    "total": 8
+  },
+  {
+    "key": 97,
+    "arabic": "الْقَدْرِ",
+    "name": "Al-Qadr",
+    "location": "Makkah",
+    "translate": "Kemuliaan",
+    "total": 5
+  },
+  {
+    "key": 102,
+    "arabic": "التكاثر‎‎",
+    "name": "At-Takasur",
+    "location": "Makkah",
+    "translate": "Bermegah-megahan",
+    "total": 8
+  },
+  {
+    "key": 103,
+    "arabic": "العصر",
+    "name": "Al-'Asr",
+    "location": "Makkah",
+    "translate": "Masa/Waktu",
+    "total": 3
+  },
+  {
+    "key": 105,
+    "arabic": "الْفِيلِ",
+    "name": "Al-Fil",
+    "location": "Makkah",
+    "translate": "Gajah",
+    "total": 5
+  },
+  {
+    "key": 106,
+    "arabic": "قُرَيْشٍ",
+    "name": "Quraisy",
+    "location": "Makkah",
+    "translate": "Suku Quraisy",
+    "total": 4
+  },
+  {
+    "key": 107,
+    "arabic": "الْمَاعُونَ",
+    "name": "Al-Ma’un",
+    "location": "Makkah",
+    "translate": "Barang-barang yang berguna",
+    "total": 7
+  },
+  {
+    "key": 108,
+    "arabic": "الكوثر",
+    "name": "Al-Kausar",
+    "location": "Makkah",
+    "translate": "Nikmat yang berlimpah",
+    "total": 3
+  },
+  {
+    "key": 109,
+    "arabic": "الْكَافِرُونَ",
+    "name": "Al-Kafirun",
+    "location": "Makkah",
+    "translate": "Orang-orang kafir",
+    "total": 6
+  },
+  {
+    "key": 110,
+    "arabic": "النصر‎‎",
+    "name": "An-Nasr",
+    "location": "Madinah",
+    "translate": "Pertolongan",
+    "total": 3
+  },
+  {
+    "key": 111,
+    "arabic": "المسد‎‎",
+    "name": "Al-Lahab",
+    "location": "Makkah",
+    "translate": "Gejolak Api/ Sabut",
+    "total": 5
+  },
+  {
+    "key": 112,
+    "arabic": "الإخلاص‎‎",
+    "name": "Al-Ikhlas",
+    "location": "Makkah",
+    "translate": "Ikhlas",
+    "total": 4
+  },
+  {
+    "key": 113,
+    "arabic": "الْفَلَقِ",
+    "name": "Al-Falaq",
+    "location": "Makkah",
+    "translate": "Waktu Subuh",
+    "total": 5
+  },
+  {
+    "key": 114,
+    "arabic": "النَّاسِ",
+    "name": "An-Nas",
+    "location": "Makkah",
+    "translate": "Umat Manusia",
+    "total": 6
+  }
+]

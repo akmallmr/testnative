@@ -1,0 +1,3301 @@
+{
+  "1": [
+    {
+      "sura": 1,
+      "aya": 1,
+      "word": 1,
+      "ar": "بِسْمِ",
+      "en": "In (the) name",
+      "id": "dengan nama",
+      "trans": "bismi"
+    },
+    {
+      "sura": 1,
+      "aya": 1,
+      "word": 2,
+      "ar": "اللَّهِ",
+      "en": "(of) Allah,",
+      "id": "Allah",
+      "trans": "al-lahi"
+    },
+    {
+      "sura": 1,
+      "aya": 1,
+      "word": 3,
+      "ar": "الرَّحْمٰنِ",
+      "en": "the Most Gracious,",
+      "id": "Maha Pengasih",
+      "trans": "ar-rahmaani"
+    },
+    {
+      "sura": 1,
+      "aya": 1,
+      "word": 4,
+      "ar": "الرَّحِيمِ",
+      "en": "the Most Merciful.",
+      "id": "Maha Penyayang",
+      "trans": "ar-rahiymi"
+    },
+    {
+      "sura": 1,
+      "aya": 2,
+      "word": 1,
+      "ar": "الْحَمْدُ",
+      "en": "All praises and thanks",
+      "id": "pujian",
+      "trans": "alhamdu"
+    },
+    {
+      "sura": 1,
+      "aya": 2,
+      "word": 2,
+      "ar": "لِلَّهِ",
+      "en": "(be) to Allah,",
+      "id": "bagi Allah",
+      "trans": "lillahi"
+    },
+    {
+      "sura": 1,
+      "aya": 2,
+      "word": 3,
+      "ar": "رَبِّ",
+      "en": "the Lord",
+      "id": "Tuhan",
+      "trans": "rabbi"
+    },
+    {
+      "sura": 1,
+      "aya": 2,
+      "word": 4,
+      "ar": "الْعٰلَمِينَ",
+      "en": "of the universe",
+      "id": "alam semesta",
+      "trans": "alʿaalamiyna"
+    },
+    {
+      "sura": 1,
+      "aya": 3,
+      "word": 1,
+      "ar": "الرَّحْمٰنِ",
+      "en": "The Most Gracious,",
+      "id": "Maha Pengasih",
+      "trans": "ar-rahmaani"
+    },
+    {
+      "sura": 1,
+      "aya": 3,
+      "word": 2,
+      "ar": "الرَّحِيمِ",
+      "en": "the Most Merciful.",
+      "id": "Maha Penyayang",
+      "trans": "ar-rahiymi"
+    },
+    {
+      "sura": 1,
+      "aya": 4,
+      "word": 1,
+      "ar": "مٰلِكِ",
+      "en": "(The) Master",
+      "id": "Penguasa",
+      "trans": "maaliki"
+    },
+    {
+      "sura": 1,
+      "aya": 4,
+      "word": 2,
+      "ar": "يَوْمِ",
+      "en": "(of the) Day",
+      "id": "hari",
+      "trans": "yawmi"
+    },
+    {
+      "sura": 1,
+      "aya": 4,
+      "word": 3,
+      "ar": "الدِّينِ",
+      "en": "(of the) Judgment.",
+      "id": "pembalasan",
+      "trans": "ad-diyni"
+    },
+    {
+      "sura": 1,
+      "aya": 5,
+      "word": 1,
+      "ar": "إِيَّاكَ",
+      "en": "You Alone",
+      "id": "hanya kepadaMu",
+      "trans": "iyyaāka"
+    },
+    {
+      "sura": 1,
+      "aya": 5,
+      "word": 2,
+      "ar": "نَعْبُدُ",
+      "en": "we worship,",
+      "id": "kami menyembah",
+      "trans": "naʿbudu"
+    },
+    {
+      "sura": 1,
+      "aya": 5,
+      "word": 3,
+      "ar": "وَإِيَّاكَ",
+      "en": "and You Alone",
+      "id": "dan hanya kepadaMu",
+      "trans": "waiyyaāka"
+    },
+    {
+      "sura": 1,
+      "aya": 5,
+      "word": 4,
+      "ar": "نَسْتَعِينُ",
+      "en": "we ask for help.",
+      "id": "kami mohon pertolongan",
+      "trans": "nastaʿiynu"
+    },
+    {
+      "sura": 1,
+      "aya": 6,
+      "word": 1,
+      "ar": "اهْدِنَا",
+      "en": "Guide us",
+      "id": "tunjukkan kami",
+      "trans": "ahdinaā"
+    },
+    {
+      "sura": 1,
+      "aya": 6,
+      "word": 2,
+      "ar": "الصِّرٰطَ",
+      "en": "(to) the path,",
+      "id": "jalan",
+      "trans": "aṣ-ṣiraaṭa"
+    },
+    {
+      "sura": 1,
+      "aya": 6,
+      "word": 3,
+      "ar": "الْمُسْتَقِيمَ",
+      "en": "the straight.",
+      "id": "lurus",
+      "trans": "almustaqiyma"
+    },
+    {
+      "sura": 1,
+      "aya": 7,
+      "word": 1,
+      "ar": "صِرٰطَ",
+      "en": "(The) path",
+      "id": "jalan",
+      "trans": "ṣiraaṭa"
+    },
+    {
+      "sura": 1,
+      "aya": 7,
+      "word": 2,
+      "ar": "الَّذِينَ",
+      "en": "(of) those",
+      "id": "orang-orang yang",
+      "trans": "alladhiyna"
+    },
+    {
+      "sura": 1,
+      "aya": 7,
+      "word": 3,
+      "ar": "أَنْعَمْتَ",
+      "en": "You have bestowed (Your) Favors",
+      "id": "diberi nikmat",
+      "trans": "anʿamta"
+    },
+    {
+      "sura": 1,
+      "aya": 7,
+      "word": 4,
+      "ar": "عَلَيْهِمْ",
+      "en": "on them,",
+      "id": "kepadanya",
+      "trans": "ʿalayhim"
+    },
+    {
+      "sura": 1,
+      "aya": 7,
+      "word": 5,
+      "ar": "غَيْرِ",
+      "en": "not (of)",
+      "id": "bukan",
+      "trans": "ghayri"
+    },
+    {
+      "sura": 1,
+      "aya": 7,
+      "word": 6,
+      "ar": "الْمَغْضُوبِ",
+      "en": "those who earned (Your) wrath",
+      "id": "orang yang dimurkai",
+      "trans": "almaghḍuwbi"
+    },
+    {
+      "sura": 1,
+      "aya": 7,
+      "word": 7,
+      "ar": "عَلَيْهِمْ",
+      "en": "on them",
+      "id": "kepadanya",
+      "trans": "ʿalayhim"
+    },
+    {
+      "sura": 1,
+      "aya": 7,
+      "word": 8,
+      "ar": "وَلَا",
+      "en": "and not",
+      "id": "dan tidak",
+      "trans": "walaā"
+    },
+    {
+      "sura": 1,
+      "aya": 7,
+      "word": 9,
+      "ar": "الضَّآلِّينَ",
+      "en": "(of) those who go astray.",
+      "id": "orang-orang yang sesat",
+      "trans": "aḍ-ḍaālliyna"
+    }
+  ],
+  "94": [
+    {
+      "sura": 94,
+      "aya": 1,
+      "word": 1,
+      "ar": "أَلَمْ",
+      "en": "Have not",
+      "id": "apakah tidak/bukankah",
+      "trans": "alam"
+    },
+    {
+      "sura": 94,
+      "aya": 1,
+      "word": 2,
+      "ar": "نَشْرَحْ",
+      "en": "We expanded",
+      "id": "Kami melapangkan",
+      "trans": "nashrah"
+    },
+    {
+      "sura": 94,
+      "aya": 1,
+      "word": 3,
+      "ar": "لَكَ",
+      "en": "for you",
+      "id": "bagimu",
+      "trans": "laka"
+    },
+    {
+      "sura": 94,
+      "aya": 1,
+      "word": 4,
+      "ar": "صَدْرَكَ",
+      "en": "your breast?",
+      "id": "dadamu",
+      "trans": "ṣadraka"
+    },
+    {
+      "sura": 94,
+      "aya": 2,
+      "word": 1,
+      "ar": "وَوَضَعْنَا",
+      "en": "And We removed",
+      "id": "dan Kami letakkan/turunkan",
+      "trans": "wawaḍaʿnaā"
+    },
+    {
+      "sura": 94,
+      "aya": 2,
+      "word": 2,
+      "ar": "عَنكَ",
+      "en": "from you",
+      "id": "dari kamu",
+      "trans": "ʿanka"
+    },
+    {
+      "sura": 94,
+      "aya": 2,
+      "word": 3,
+      "ar": "وِزْرَكَ",
+      "en": "your burden",
+      "id": "bebanmu",
+      "trans": "wizraka"
+    },
+    {
+      "sura": 94,
+      "aya": 3,
+      "word": 1,
+      "ar": "الَّذِىٓ",
+      "en": "Which",
+      "id": "yang",
+      "trans": "alladhiā"
+    },
+    {
+      "sura": 94,
+      "aya": 3,
+      "word": 2,
+      "ar": "أَنقَضَ",
+      "en": "weighed upon",
+      "id": "memberatkan",
+      "trans": "anqaḍa"
+    },
+    {
+      "sura": 94,
+      "aya": 3,
+      "word": 3,
+      "ar": "ظَهْرَكَ",
+      "en": "your back,",
+      "id": "punggungmu",
+      "trans": "ẓahraka"
+    },
+    {
+      "sura": 94,
+      "aya": 4,
+      "word": 1,
+      "ar": "وَرَفَعْنَا",
+      "en": "And We raised high",
+      "id": "dan Kami tinggikan",
+      "trans": "warafaʿnaā"
+    },
+    {
+      "sura": 94,
+      "aya": 4,
+      "word": 2,
+      "ar": "لَكَ",
+      "en": "for you",
+      "id": "bagimu",
+      "trans": "laka"
+    },
+    {
+      "sura": 94,
+      "aya": 4,
+      "word": 3,
+      "ar": "ذِكْرَكَ",
+      "en": "your reputation",
+      "id": "sebutanmu",
+      "trans": "dhikraka"
+    },
+    {
+      "sura": 94,
+      "aya": 5,
+      "word": 1,
+      "ar": "فَإِنَّ",
+      "en": "So indeed,",
+      "id": "maka sesungguhnya",
+      "trans": "fainna"
+    },
+    {
+      "sura": 94,
+      "aya": 5,
+      "word": 2,
+      "ar": "مَعَ",
+      "en": "with",
+      "id": "beserta",
+      "trans": "maʿa"
+    },
+    {
+      "sura": 94,
+      "aya": 5,
+      "word": 3,
+      "ar": "الْعُسْرِ",
+      "en": "the hardship",
+      "id": "kesulitan",
+      "trans": "alʿusri"
+    },
+    {
+      "sura": 94,
+      "aya": 5,
+      "word": 4,
+      "ar": "يُسْرًا",
+      "en": "(is) ease.",
+      "id": "kemudahan",
+      "trans": "yusranā"
+    },
+    {
+      "sura": 94,
+      "aya": 6,
+      "word": 1,
+      "ar": "إِنَّ",
+      "en": "Indeed,",
+      "id": "sesungguhnya",
+      "trans": "inna"
+    },
+    {
+      "sura": 94,
+      "aya": 6,
+      "word": 2,
+      "ar": "مَعَ",
+      "en": "with",
+      "id": "beserta",
+      "trans": "maʿa"
+    },
+    {
+      "sura": 94,
+      "aya": 6,
+      "word": 3,
+      "ar": "الْعُسْرِ",
+      "en": "the hardship",
+      "id": "kesulitan",
+      "trans": "alʿusri"
+    },
+    {
+      "sura": 94,
+      "aya": 6,
+      "word": 4,
+      "ar": "يُسْرًا",
+      "en": "(is) ease.",
+      "id": "kemudahan",
+      "trans": "yusranā"
+    },
+    {
+      "sura": 94,
+      "aya": 7,
+      "word": 1,
+      "ar": "فَإِذَا",
+      "en": "So when",
+      "id": "maka apabila",
+      "trans": "faidhaā"
+    },
+    {
+      "sura": 94,
+      "aya": 7,
+      "word": 2,
+      "ar": "فَرَغْتَ",
+      "en": "you have finished",
+      "id": "kamu telah selesai",
+      "trans": "faraghta"
+    },
+    {
+      "sura": 94,
+      "aya": 7,
+      "word": 3,
+      "ar": "فَانصَبْ",
+      "en": "then labor hard.",
+      "id": "maka kerja keraslah kamu",
+      "trans": "faanṣab"
+    },
+    {
+      "sura": 94,
+      "aya": 8,
+      "word": 1,
+      "ar": "وَإِلٰى",
+      "en": "And to",
+      "id": "dan hanya",
+      "trans": "wailaāa"
+    },
+    {
+      "sura": 94,
+      "aya": 8,
+      "word": 2,
+      "ar": "رَبِّكَ",
+      "en": "your Lord",
+      "id": "Tuhanmu",
+      "trans": "rabbika"
+    },
+    {
+      "sura": 94,
+      "aya": 8,
+      "word": 3,
+      "ar": "فَارْغَب",
+      "en": "turn your attention.",
+      "id": "maka kamu berharap",
+      "trans": "faarghab"
+    }
+  ],
+  "95": [
+    {
+      "sura": 95,
+      "aya": 1,
+      "word": 1,
+      "ar": "وَالتِّينِ",
+      "en": "By the fig,",
+      "id": "demi tin",
+      "trans": "waat-tiyni"
+    },
+    {
+      "sura": 95,
+      "aya": 1,
+      "word": 2,
+      "ar": "وَالزَّيْتُونِ",
+      "en": "and the olive,",
+      "id": "dan zaitun",
+      "trans": "waaz-zaytuwni"
+    },
+    {
+      "sura": 95,
+      "aya": 2,
+      "word": 1,
+      "ar": "وَطُورِ",
+      "en": "And (the) Mount",
+      "id": "dan bukit",
+      "trans": "waṭuwri"
+    },
+    {
+      "sura": 95,
+      "aya": 2,
+      "word": 2,
+      "ar": "سِينِينَ",
+      "en": "Sinai,",
+      "id": "Sinai",
+      "trans": "siyniyna"
+    },
+    {
+      "sura": 95,
+      "aya": 3,
+      "word": 1,
+      "ar": "وَهٰذَا",
+      "en": "And this",
+      "id": "dan ini",
+      "trans": "wahaadhaā"
+    },
+    {
+      "sura": 95,
+      "aya": 3,
+      "word": 2,
+      "ar": "الْبَلَدِ",
+      "en": "[the] city,",
+      "id": "negri",
+      "trans": "albaladi"
+    },
+    {
+      "sura": 95,
+      "aya": 3,
+      "word": 3,
+      "ar": "الْأَمِينِ",
+      "en": "[the] secure,",
+      "id": "aman",
+      "trans": "alamiyni"
+    },
+    {
+      "sura": 95,
+      "aya": 4,
+      "word": 1,
+      "ar": "لَقَدْ",
+      "en": "Indeed,",
+      "id": "sesungguhnya",
+      "trans": "laqad"
+    },
+    {
+      "sura": 95,
+      "aya": 4,
+      "word": 2,
+      "ar": "خَلَقْنَا",
+      "en": "We created",
+      "id": "Kami telah menciptakan",
+      "trans": "khalaqnaā"
+    },
+    {
+      "sura": 95,
+      "aya": 4,
+      "word": 3,
+      "ar": "الْإِنسٰنَ",
+      "en": "man",
+      "id": "manusia",
+      "trans": "alinsaana"
+    },
+    {
+      "sura": 95,
+      "aya": 4,
+      "word": 4,
+      "ar": "فِىٓ",
+      "en": "in",
+      "id": "dalam",
+      "trans": "fiā"
+    },
+    {
+      "sura": 95,
+      "aya": 4,
+      "word": 5,
+      "ar": "أَحْسَنِ",
+      "en": "(the) best",
+      "id": "sebaik-baik",
+      "trans": "ahsani"
+    },
+    {
+      "sura": 95,
+      "aya": 4,
+      "word": 6,
+      "ar": "تَقْوِيمٍ",
+      "en": "mould.",
+      "id": "bentuk",
+      "trans": "taqwiymin"
+    },
+    {
+      "sura": 95,
+      "aya": 5,
+      "word": 1,
+      "ar": "ثُمَّ",
+      "en": "Then",
+      "id": "kemudian",
+      "trans": "thumma"
+    },
+    {
+      "sura": 95,
+      "aya": 5,
+      "word": 2,
+      "ar": "رَدَدْنٰهُ",
+      "en": "We returned him",
+      "id": "Kami kembalikan",
+      "trans": "radadnaahu"
+    },
+    {
+      "sura": 95,
+      "aya": 5,
+      "word": 3,
+      "ar": "أَسْفَلَ",
+      "en": "(to the) lowest",
+      "id": "lebih rendah/paling rendah",
+      "trans": "asfala"
+    },
+    {
+      "sura": 95,
+      "aya": 5,
+      "word": 4,
+      "ar": "سٰفِلِينَ",
+      "en": "(of the) low,",
+      "id": "tempat yang rendah",
+      "trans": "saafiliyna"
+    },
+    {
+      "sura": 95,
+      "aya": 6,
+      "word": 1,
+      "ar": "إِلَّا",
+      "en": "Except",
+      "id": "kecuali",
+      "trans": "illaā"
+    },
+    {
+      "sura": 95,
+      "aya": 6,
+      "word": 2,
+      "ar": "الَّذِينَ",
+      "en": "those who",
+      "id": "orang-orang yang",
+      "trans": "alladhiyna"
+    },
+    {
+      "sura": 95,
+      "aya": 6,
+      "word": 3,
+      "ar": "ءَامَنُوا",
+      "en": "believe",
+      "id": "beriman",
+      "trans": "aāmanuwā"
+    },
+    {
+      "sura": 95,
+      "aya": 6,
+      "word": 4,
+      "ar": "وَعَمِلُوا",
+      "en": "and do",
+      "id": "dan mereka berbuat/beramal",
+      "trans": "waʿamiluwā"
+    },
+    {
+      "sura": 95,
+      "aya": 6,
+      "word": 5,
+      "ar": "الصّٰلِحٰتِ",
+      "en": "righteous deeds,",
+      "id": "kebajikan/saleh",
+      "trans": "aṣ-ṣaalihaati"
+    },
+    {
+      "sura": 95,
+      "aya": 6,
+      "word": 6,
+      "ar": "فَلَهُمْ",
+      "en": "then for them",
+      "id": "maka bagi mereka",
+      "trans": "falahum"
+    },
+    {
+      "sura": 95,
+      "aya": 6,
+      "word": 7,
+      "ar": "أَجْرٌ",
+      "en": "(is a) reward",
+      "id": "pahala",
+      "trans": "ajrun"
+    },
+    {
+      "sura": 95,
+      "aya": 6,
+      "word": 8,
+      "ar": "غَيْرُ",
+      "en": "never",
+      "id": "bukan/tidak",
+      "trans": "ghayru"
+    },
+    {
+      "sura": 95,
+      "aya": 6,
+      "word": 9,
+      "ar": "مَمْنُونٍ",
+      "en": "ending.",
+      "id": "terputus",
+      "trans": "mamnuwnin"
+    },
+    {
+      "sura": 95,
+      "aya": 7,
+      "word": 1,
+      "ar": "فَمَا",
+      "en": "Then what",
+      "id": "maka apakah",
+      "trans": "famaā"
+    },
+    {
+      "sura": 95,
+      "aya": 7,
+      "word": 2,
+      "ar": "يُكَذِّبُكَ",
+      "en": "causes you to deny",
+      "id": "mendustakanmu",
+      "trans": "yukadhhibuka"
+    },
+    {
+      "sura": 95,
+      "aya": 7,
+      "word": 3,
+      "ar": "بَعْدُ",
+      "en": "after (this)",
+      "id": "sesudah",
+      "trans": "baʿdu"
+    },
+    {
+      "sura": 95,
+      "aya": 7,
+      "word": 4,
+      "ar": "بِالدِّينِ",
+      "en": "the judgment?",
+      "id": "hari pembalasan/agama",
+      "trans": "biad-diyni"
+    },
+    {
+      "sura": 95,
+      "aya": 8,
+      "word": 1,
+      "ar": "أَلَيْسَ",
+      "en": "Is not",
+      "id": "bukankah",
+      "trans": "alaysa"
+    },
+    {
+      "sura": 95,
+      "aya": 8,
+      "word": 2,
+      "ar": "اللَّهُ",
+      "en": "Allah",
+      "id": "Allah",
+      "trans": "al-lahu"
+    },
+    {
+      "sura": 95,
+      "aya": 8,
+      "word": 3,
+      "ar": "بِأَحْكَمِ",
+      "en": "(the) Most Just",
+      "id": "lebih bijaksana/seadil-adilnya",
+      "trans": "biahkami"
+    },
+    {
+      "sura": 95,
+      "aya": 8,
+      "word": 4,
+      "ar": "الْحٰكِمِينَ",
+      "en": "(of) the Judges?",
+      "id": "para hakim",
+      "trans": "alhaakimiyna"
+    }
+  ],
+  "97": [
+    {
+      "sura": 97,
+      "aya": 1,
+      "word": 1,
+      "ar": "إِنَّآ",
+      "en": "Indeed, We",
+      "id": "sesungguhnya",
+      "trans": "innaā"
+    },
+    {
+      "sura": 97,
+      "aya": 1,
+      "word": 2,
+      "ar": "أَنزَلْنٰهُ",
+      "en": "revealed it",
+      "id": "Kami telah menurunkannya",
+      "trans": "anzalnaahu"
+    },
+    {
+      "sura": 97,
+      "aya": 1,
+      "word": 3,
+      "ar": "فِى",
+      "en": "in",
+      "id": "pada",
+      "trans": "fiā"
+    },
+    {
+      "sura": 97,
+      "aya": 1,
+      "word": 4,
+      "ar": "لَيْلَةِ",
+      "en": "(the) Night",
+      "id": "malam",
+      "trans": "laylati"
+    },
+    {
+      "sura": 97,
+      "aya": 1,
+      "word": 5,
+      "ar": "الْقَدْرِ",
+      "en": "(of) Power.",
+      "id": "kemuliaan",
+      "trans": "alqadri"
+    },
+    {
+      "sura": 97,
+      "aya": 2,
+      "word": 1,
+      "ar": "وَمَآ",
+      "en": "And what",
+      "id": "dan apakah",
+      "trans": "wamaā"
+    },
+    {
+      "sura": 97,
+      "aya": 2,
+      "word": 2,
+      "ar": "أَدْرٰىكَ",
+      "en": "can make you know",
+      "id": "kamu tahu",
+      "trans": "adraāaka"
+    },
+    {
+      "sura": 97,
+      "aya": 2,
+      "word": 3,
+      "ar": "مَا",
+      "en": "what",
+      "id": "apa",
+      "trans": "maā"
+    },
+    {
+      "sura": 97,
+      "aya": 2,
+      "word": 4,
+      "ar": "لَيْلَةُ",
+      "en": "(the) Night",
+      "id": "malam",
+      "trans": "laylatu"
+    },
+    {
+      "sura": 97,
+      "aya": 2,
+      "word": 5,
+      "ar": "الْقَدْرِ",
+      "en": "(of) Power (is)?",
+      "id": "kemuliaan",
+      "trans": "alqadri"
+    },
+    {
+      "sura": 97,
+      "aya": 3,
+      "word": 1,
+      "ar": "لَيْلَةُ",
+      "en": "(The) Night",
+      "id": "malam",
+      "trans": "laylatu"
+    },
+    {
+      "sura": 97,
+      "aya": 3,
+      "word": 2,
+      "ar": "الْقَدْرِ",
+      "en": "(of) Power",
+      "id": "kemuliaan",
+      "trans": "alqadri"
+    },
+    {
+      "sura": 97,
+      "aya": 3,
+      "word": 3,
+      "ar": "خَيْرٌ",
+      "en": "(is) better",
+      "id": "lebih baik",
+      "trans": "khayrun"
+    },
+    {
+      "sura": 97,
+      "aya": 3,
+      "word": 4,
+      "ar": "مِّنْ",
+      "en": "than",
+      "id": "dari",
+      "trans": "mmin"
+    },
+    {
+      "sura": 97,
+      "aya": 3,
+      "word": 5,
+      "ar": "أَلْفِ",
+      "en": "a thousand",
+      "id": "seribu",
+      "trans": "alfi"
+    },
+    {
+      "sura": 97,
+      "aya": 3,
+      "word": 6,
+      "ar": "شَهْرٍ",
+      "en": "month(s).",
+      "id": "bulan",
+      "trans": "shahrin"
+    },
+    {
+      "sura": 97,
+      "aya": 4,
+      "word": 1,
+      "ar": "تَنَزَّلُ",
+      "en": "Descend",
+      "id": "turun",
+      "trans": "tanazzalu"
+    },
+    {
+      "sura": 97,
+      "aya": 4,
+      "word": 2,
+      "ar": "الْمَلٰٓئِكَةُ",
+      "en": "the Angels",
+      "id": "para malaikat",
+      "trans": "almalaaikatu"
+    },
+    {
+      "sura": 97,
+      "aya": 4,
+      "word": 3,
+      "ar": "وَالرُّوحُ",
+      "en": "and the Spirit",
+      "id": "dan Roh/Jibril",
+      "trans": "waar-ruwhu"
+    },
+    {
+      "sura": 97,
+      "aya": 4,
+      "word": 4,
+      "ar": "فِيهَا",
+      "en": "therein,",
+      "id": "padanya/pada malam",
+      "trans": "fiyhaā"
+    },
+    {
+      "sura": 97,
+      "aya": 4,
+      "word": 5,
+      "ar": "بِإِذْنِ",
+      "en": "by (the) permission",
+      "id": "dengan izin",
+      "trans": "biidhni"
+    },
+    {
+      "sura": 97,
+      "aya": 4,
+      "word": 6,
+      "ar": "رَبِّهِم",
+      "en": "(of) their Lord,",
+      "id": "Tuhannya",
+      "trans": "rabbihim"
+    },
+    {
+      "sura": 97,
+      "aya": 4,
+      "word": 7,
+      "ar": "مِّن",
+      "en": "for",
+      "id": "dari",
+      "trans": "mmin"
+    },
+    {
+      "sura": 97,
+      "aya": 4,
+      "word": 8,
+      "ar": "كُلِّ",
+      "en": "every",
+      "id": "segala",
+      "trans": "kulli"
+    },
+    {
+      "sura": 97,
+      "aya": 4,
+      "word": 9,
+      "ar": "أَمْرٍ",
+      "en": "affair,",
+      "id": "urusan",
+      "trans": "amrin"
+    },
+    {
+      "sura": 97,
+      "aya": 5,
+      "word": 1,
+      "ar": "سَلٰمٌ",
+      "en": "Peace",
+      "id": "sejahtera",
+      "trans": "salaamun"
+    },
+    {
+      "sura": 97,
+      "aya": 5,
+      "word": 2,
+      "ar": "هِىَ",
+      "en": "it (is)",
+      "id": "ia/malam itu",
+      "trans": "hiāa"
+    },
+    {
+      "sura": 97,
+      "aya": 5,
+      "word": 3,
+      "ar": "حَتّٰى",
+      "en": "until",
+      "id": "hingga",
+      "trans": "hattaāa"
+    },
+    {
+      "sura": 97,
+      "aya": 5,
+      "word": 4,
+      "ar": "مَطْلَعِ",
+      "en": "(the) emergence",
+      "id": "terbit",
+      "trans": "maṭlaʿi"
+    },
+    {
+      "sura": 97,
+      "aya": 5,
+      "word": 5,
+      "ar": "الْفَجْرِ",
+      "en": "(of) the dawn.",
+      "id": "fajar",
+      "trans": "alfajri"
+    }
+  ],
+  "102": [
+    {
+      "sura": 102,
+      "aya": 1,
+      "word": 1,
+      "ar": "أَلْهٰىكُمُ",
+      "en": "Diverts you",
+      "id": "telah melalaikan kamu",
+      "trans": "alhaāakumu"
+    },
+    {
+      "sura": 102,
+      "aya": 1,
+      "word": 2,
+      "ar": "التَّكَاثُرُ",
+      "en": "the competition to increase",
+      "id": "berbanyak-banyak/bermegah-megah",
+      "trans": "at-takaāthuru"
+    },
+    {
+      "sura": 102,
+      "aya": 2,
+      "word": 1,
+      "ar": "حَتّٰى",
+      "en": "Until",
+      "id": "hingga",
+      "trans": "hattaāa"
+    },
+    {
+      "sura": 102,
+      "aya": 2,
+      "word": 2,
+      "ar": "زُرْتُمُ",
+      "en": "you visit",
+      "id": "kamu melewati/masuk",
+      "trans": "zurtumu"
+    },
+    {
+      "sura": 102,
+      "aya": 2,
+      "word": 3,
+      "ar": "الْمَقَابِرَ",
+      "en": "the graves.",
+      "id": "kuburan-kuburan",
+      "trans": "almaqaābira"
+    },
+    {
+      "sura": 102,
+      "aya": 3,
+      "word": 1,
+      "ar": "كَلَّا",
+      "en": "Nay!",
+      "id": "sekali-kali tidak",
+      "trans": "kallaā"
+    },
+    {
+      "sura": 102,
+      "aya": 3,
+      "word": 2,
+      "ar": "سَوْفَ",
+      "en": "Soon",
+      "id": "kelak",
+      "trans": "sawfa"
+    },
+    {
+      "sura": 102,
+      "aya": 3,
+      "word": 3,
+      "ar": "تَعْلَمُونَ",
+      "en": "you will know.",
+      "id": "(kalian) mengetahui",
+      "trans": "taʿlamuwna"
+    },
+    {
+      "sura": 102,
+      "aya": 4,
+      "word": 1,
+      "ar": "ثُمَّ",
+      "en": "Then,",
+      "id": "kemudian",
+      "trans": "thumma"
+    },
+    {
+      "sura": 102,
+      "aya": 4,
+      "word": 2,
+      "ar": "كَلَّا",
+      "en": "nay!",
+      "id": "sekali-kali tidak",
+      "trans": "kallaā"
+    },
+    {
+      "sura": 102,
+      "aya": 4,
+      "word": 3,
+      "ar": "سَوْفَ",
+      "en": "Soon",
+      "id": "kelak",
+      "trans": "sawfa"
+    },
+    {
+      "sura": 102,
+      "aya": 4,
+      "word": 4,
+      "ar": "تَعْلَمُونَ",
+      "en": "you will know.",
+      "id": "(kalian) mengetahui",
+      "trans": "taʿlamuwna"
+    },
+    {
+      "sura": 102,
+      "aya": 5,
+      "word": 1,
+      "ar": "كَلَّا",
+      "en": "Nay!",
+      "id": "sekali-kali tidak",
+      "trans": "kallaā"
+    },
+    {
+      "sura": 102,
+      "aya": 5,
+      "word": 2,
+      "ar": "لَوْ",
+      "en": "If",
+      "id": "jika",
+      "trans": "law"
+    },
+    {
+      "sura": 102,
+      "aya": 5,
+      "word": 3,
+      "ar": "تَعْلَمُونَ",
+      "en": "you know",
+      "id": "(kalian) mengetahui",
+      "trans": "taʿlamuwna"
+    },
+    {
+      "sura": 102,
+      "aya": 5,
+      "word": 4,
+      "ar": "عِلْمَ",
+      "en": "(with) a knowledge",
+      "id": "pengetahuan",
+      "trans": "ʿilma"
+    },
+    {
+      "sura": 102,
+      "aya": 5,
+      "word": 5,
+      "ar": "الْيَقِينِ",
+      "en": "(of) certainty.",
+      "id": "pasti/yakin",
+      "trans": "alyaqiyni"
+    },
+    {
+      "sura": 102,
+      "aya": 6,
+      "word": 1,
+      "ar": "لَتَرَوُنَّ",
+      "en": "Surely you will see",
+      "id": "sungguh kamu akan melihat",
+      "trans": "latarawunna"
+    },
+    {
+      "sura": 102,
+      "aya": 6,
+      "word": 2,
+      "ar": "الْجَحِيمَ",
+      "en": "the Hellfire.",
+      "id": "neraka Jahim",
+      "trans": "aljahiyma"
+    },
+    {
+      "sura": 102,
+      "aya": 7,
+      "word": 1,
+      "ar": "ثُمَّ",
+      "en": "Then",
+      "id": "kemudian",
+      "trans": "thumma"
+    },
+    {
+      "sura": 102,
+      "aya": 7,
+      "word": 2,
+      "ar": "لَتَرَوُنَّهَا",
+      "en": "surely you will see it",
+      "id": "sungguh kamu akan melihatnya",
+      "trans": "latarawunnahaā"
+    },
+    {
+      "sura": 102,
+      "aya": 7,
+      "word": 3,
+      "ar": "عَيْنَ",
+      "en": "(with the) eye",
+      "id": "mata/penglihatan",
+      "trans": "ʿayna"
+    },
+    {
+      "sura": 102,
+      "aya": 7,
+      "word": 4,
+      "ar": "الْيَقِينِ",
+      "en": "(of) certainty.",
+      "id": "pasti/yakin",
+      "trans": "alyaqiyni"
+    },
+    {
+      "sura": 102,
+      "aya": 8,
+      "word": 1,
+      "ar": "ثُمَّ",
+      "en": "Then,",
+      "id": "kemudian",
+      "trans": "thumma"
+    },
+    {
+      "sura": 102,
+      "aya": 8,
+      "word": 2,
+      "ar": "لَتُسْئَلُنَّ",
+      "en": "surely you will be asked",
+      "id": "sungguh kamu akan ditanya",
+      "trans": "latusalunna"
+    },
+    {
+      "sura": 102,
+      "aya": 8,
+      "word": 3,
+      "ar": "يَوْمَئِذٍ",
+      "en": "that Day",
+      "id": "pada hari itu",
+      "trans": "yawmaidhin"
+    },
+    {
+      "sura": 102,
+      "aya": 8,
+      "word": 4,
+      "ar": "عَنِ",
+      "en": "about",
+      "id": "dari/tetang",
+      "trans": "ʿani"
+    },
+    {
+      "sura": 102,
+      "aya": 8,
+      "word": 5,
+      "ar": "النَّعِيمِ",
+      "en": "the pleasures.",
+      "id": "kenikmatan",
+      "trans": "an-naʿiymi"
+    }
+  ],
+  "103": [
+    {
+      "sura": 103,
+      "aya": 1,
+      "word": 1,
+      "ar": "وَالْعَصْرِ",
+      "en": "By the time,",
+      "id": "demi waktu",
+      "trans": "waalʿaṣri"
+    },
+    {
+      "sura": 103,
+      "aya": 2,
+      "word": 1,
+      "ar": "إِنَّ",
+      "en": "Indeed,",
+      "id": "sesungguhnya",
+      "trans": "inna"
+    },
+    {
+      "sura": 103,
+      "aya": 2,
+      "word": 2,
+      "ar": "الْإِنسٰنَ",
+      "en": "mankind",
+      "id": "manusia",
+      "trans": "alinsaana"
+    },
+    {
+      "sura": 103,
+      "aya": 2,
+      "word": 3,
+      "ar": "لَفِى",
+      "en": "(is) surely, in",
+      "id": "benar-benar dalam",
+      "trans": "lafiā"
+    },
+    {
+      "sura": 103,
+      "aya": 2,
+      "word": 4,
+      "ar": "خُسْرٍ",
+      "en": "loss,",
+      "id": "kerugian",
+      "trans": "khusrin"
+    },
+    {
+      "sura": 103,
+      "aya": 3,
+      "word": 1,
+      "ar": "إِلَّا",
+      "en": "Except",
+      "id": "kecuali",
+      "trans": "illaā"
+    },
+    {
+      "sura": 103,
+      "aya": 3,
+      "word": 2,
+      "ar": "الَّذِينَ",
+      "en": "those who",
+      "id": "orang-orang yang",
+      "trans": "alladhiyna"
+    },
+    {
+      "sura": 103,
+      "aya": 3,
+      "word": 3,
+      "ar": "ءَامَنُوا",
+      "en": "believe",
+      "id": "beriman",
+      "trans": "aāmanuwā"
+    },
+    {
+      "sura": 103,
+      "aya": 3,
+      "word": 4,
+      "ar": "وَعَمِلُوا",
+      "en": "and do",
+      "id": "dan mereka berbuat/beramal",
+      "trans": "waʿamiluwā"
+    },
+    {
+      "sura": 103,
+      "aya": 3,
+      "word": 5,
+      "ar": "الصّٰلِحٰتِ",
+      "en": "righteous deeds",
+      "id": "kebajikan/sholeh",
+      "trans": "aṣ-ṣaalihaati"
+    },
+    {
+      "sura": 103,
+      "aya": 3,
+      "word": 6,
+      "ar": "وَتَوَاصَوْا",
+      "en": "and enjoin (each other)",
+      "id": "dan mereka saling berwasiat/menasehati",
+      "trans": "watawaāṣawā"
+    },
+    {
+      "sura": 103,
+      "aya": 3,
+      "word": 7,
+      "ar": "بِالْحَقِّ",
+      "en": "to the truth",
+      "id": "dengan kebenaran",
+      "trans": "bialhaqqi"
+    },
+    {
+      "sura": 103,
+      "aya": 3,
+      "word": 8,
+      "ar": "وَتَوَاصَوْا",
+      "en": "and enjoin (each other)",
+      "id": "dan mereka saling berwasiat/menasehati",
+      "trans": "watawaāṣawā"
+    },
+    {
+      "sura": 103,
+      "aya": 3,
+      "word": 9,
+      "ar": "بِالصَّبْرِ",
+      "en": "to [the] patience.",
+      "id": "dengan kesabaran",
+      "trans": "biaṣ-ṣabri"
+    }
+  ],
+  "105": [
+    {
+      "sura": 105,
+      "aya": 1,
+      "word": 1,
+      "ar": "أَلَمْ",
+      "en": "Have not",
+      "id": "apakah tidak",
+      "trans": "alam"
+    },
+    {
+      "sura": 105,
+      "aya": 1,
+      "word": 2,
+      "ar": "تَرَ",
+      "en": "you seen",
+      "id": "kamu perhatikan",
+      "trans": "tara"
+    },
+    {
+      "sura": 105,
+      "aya": 1,
+      "word": 3,
+      "ar": "كَيْفَ",
+      "en": "how",
+      "id": "bagaimana",
+      "trans": "kayfa"
+    },
+    {
+      "sura": 105,
+      "aya": 1,
+      "word": 4,
+      "ar": "فَعَلَ",
+      "en": "dealt",
+      "id": "berbuat/bertindak",
+      "trans": "faʿala"
+    },
+    {
+      "sura": 105,
+      "aya": 1,
+      "word": 5,
+      "ar": "رَبُّكَ",
+      "en": "your Lord",
+      "id": "Tuhanmu",
+      "trans": "rabbuka"
+    },
+    {
+      "sura": 105,
+      "aya": 1,
+      "word": 6,
+      "ar": "بِأَصْحٰبِ",
+      "en": "with (the) Companions",
+      "id": "terhadap golongan (tentara)",
+      "trans": "biaṣhaabi"
+    },
+    {
+      "sura": 105,
+      "aya": 1,
+      "word": 7,
+      "ar": "الْفِيلِ",
+      "en": "(of the) Elephant?",
+      "id": "gajah",
+      "trans": "alfiyli"
+    },
+    {
+      "sura": 105,
+      "aya": 2,
+      "word": 1,
+      "ar": "أَلَمْ",
+      "en": "Did not",
+      "id": "apakah tidak",
+      "trans": "alam"
+    },
+    {
+      "sura": 105,
+      "aya": 2,
+      "word": 2,
+      "ar": "يَجْعَلْ",
+      "en": "He make",
+      "id": "Dia jadikan",
+      "trans": "yajʿal"
+    },
+    {
+      "sura": 105,
+      "aya": 2,
+      "word": 3,
+      "ar": "كَيْدَهُمْ",
+      "en": "their plan",
+      "id": "tipu daya mereka",
+      "trans": "kaydahum"
+    },
+    {
+      "sura": 105,
+      "aya": 2,
+      "word": 4,
+      "ar": "فِى",
+      "en": "go",
+      "id": "dalam",
+      "trans": "fiā"
+    },
+    {
+      "sura": 105,
+      "aya": 2,
+      "word": 5,
+      "ar": "تَضْلِيلٍ",
+      "en": "astray?",
+      "id": "kesesatan/sia-sia",
+      "trans": "taḍliylin"
+    },
+    {
+      "sura": 105,
+      "aya": 3,
+      "word": 1,
+      "ar": "وَأَرْسَلَ",
+      "en": "And He sent",
+      "id": "dan Dia mengirimkan",
+      "trans": "waarsala"
+    },
+    {
+      "sura": 105,
+      "aya": 3,
+      "word": 2,
+      "ar": "عَلَيْهِمْ",
+      "en": "against them",
+      "id": "kepada mereka",
+      "trans": "ʿalayhim"
+    },
+    {
+      "sura": 105,
+      "aya": 3,
+      "word": 3,
+      "ar": "طَيْرًا",
+      "en": "birds",
+      "id": "burung",
+      "trans": "ṭayranā"
+    },
+    {
+      "sura": 105,
+      "aya": 3,
+      "word": 4,
+      "ar": "أَبَابِيلَ",
+      "en": "(in) flocks.",
+      "id": "yang berbondong-bondong",
+      "trans": "abaābiyla"
+    },
+    {
+      "sura": 105,
+      "aya": 4,
+      "word": 1,
+      "ar": "تَرْمِيهِم",
+      "en": "Striking them",
+      "id": "yang melempari mereka",
+      "trans": "tarmiyhim"
+    },
+    {
+      "sura": 105,
+      "aya": 4,
+      "word": 2,
+      "ar": "بِحِجَارَةٍ",
+      "en": "with stones",
+      "id": "dengan batu-batu",
+      "trans": "bihijaāratin"
+    },
+    {
+      "sura": 105,
+      "aya": 4,
+      "word": 3,
+      "ar": "مِّن",
+      "en": "of",
+      "id": "dari",
+      "trans": "mmin"
+    },
+    {
+      "sura": 105,
+      "aya": 4,
+      "word": 4,
+      "ar": "سِجِّيلٍ",
+      "en": "baked clay.",
+      "id": "tanah keras/terbakar",
+      "trans": "sijjiylin"
+    },
+    {
+      "sura": 105,
+      "aya": 5,
+      "word": 1,
+      "ar": "فَجَعَلَهُمْ",
+      "en": "Then He made them",
+      "id": "lalu Dia menjadikan mereka",
+      "trans": "fajaʿalahum"
+    },
+    {
+      "sura": 105,
+      "aya": 5,
+      "word": 2,
+      "ar": "كَعَصْفٍ",
+      "en": "like straw",
+      "id": "seperti daun",
+      "trans": "kaʿaṣfin"
+    },
+    {
+      "sura": 105,
+      "aya": 5,
+      "word": 3,
+      "ar": "مَّأْكُولٍۢ",
+      "en": "eaten up.",
+      "id": "dimakan",
+      "trans": "mmakuwlin"
+    }
+  ],
+  "106": [
+    {
+      "sura": 106,
+      "aya": 1,
+      "word": 1,
+      "ar": "لِإِيلٰفِ",
+      "en": "For (the) familiarity",
+      "id": "karena kebiasaan",
+      "trans": "liiylaafi"
+    },
+    {
+      "sura": 106,
+      "aya": 1,
+      "word": 2,
+      "ar": "قُرَيْشٍ",
+      "en": "(of the) Quraish,",
+      "id": "orang-orang Qurais",
+      "trans": "qurayshin"
+    },
+    {
+      "sura": 106,
+      "aya": 2,
+      "word": 1,
+      "ar": "إِۦلٰفِهِمْ",
+      "en": "Their familiarity",
+      "id": "kebiasaan mereka",
+      "trans": "ilaafihim"
+    },
+    {
+      "sura": 106,
+      "aya": 2,
+      "word": 2,
+      "ar": "رِحْلَةَ",
+      "en": "(with the) journey",
+      "id": "perjalanan/bepergian",
+      "trans": "rihlata"
+    },
+    {
+      "sura": 106,
+      "aya": 2,
+      "word": 3,
+      "ar": "الشِّتَآءِ",
+      "en": "(of) winter",
+      "id": "dimusim dingin",
+      "trans": "alshhitaāi"
+    },
+    {
+      "sura": 106,
+      "aya": 2,
+      "word": 4,
+      "ar": "وَالصَّيْفِ",
+      "en": "and summer,",
+      "id": "dan musim panas",
+      "trans": "waaṣ-ṣayfi"
+    },
+    {
+      "sura": 106,
+      "aya": 3,
+      "word": 1,
+      "ar": "فَلْيَعْبُدُوا",
+      "en": "So let them worship",
+      "id": "maka hendaklah mereka menyembah",
+      "trans": "falyaʿbuduwā"
+    },
+    {
+      "sura": 106,
+      "aya": 3,
+      "word": 2,
+      "ar": "رَبَّ",
+      "en": "(the) Lord",
+      "id": "Tuhan",
+      "trans": "rabba"
+    },
+    {
+      "sura": 106,
+      "aya": 3,
+      "word": 3,
+      "ar": "هٰذَا",
+      "en": "(of) this",
+      "id": "ini",
+      "trans": "haadhaā"
+    },
+    {
+      "sura": 106,
+      "aya": 3,
+      "word": 4,
+      "ar": "الْبَيْتِ",
+      "en": "House,",
+      "id": "rumah",
+      "trans": "albayti"
+    },
+    {
+      "sura": 106,
+      "aya": 4,
+      "word": 1,
+      "ar": "الَّذِىٓ",
+      "en": "The One Who",
+      "id": "yang",
+      "trans": "alladhiā"
+    },
+    {
+      "sura": 106,
+      "aya": 4,
+      "word": 2,
+      "ar": "أَطْعَمَهُم",
+      "en": "feeds them",
+      "id": "Dia memberi makan mereka",
+      "trans": "aṭʿamahum"
+    },
+    {
+      "sura": 106,
+      "aya": 4,
+      "word": 3,
+      "ar": "مِّن",
+      "en": "[from]",
+      "id": "dari",
+      "trans": "mmin"
+    },
+    {
+      "sura": 106,
+      "aya": 4,
+      "word": 4,
+      "ar": "جُوعٍ",
+      "en": "(against) hunger",
+      "id": "kelaparan",
+      "trans": "juwʿin"
+    },
+    {
+      "sura": 106,
+      "aya": 4,
+      "word": 5,
+      "ar": "وَءَامَنَهُم",
+      "en": "and gives them security",
+      "id": "dan Dia memberikan keamanan mereka",
+      "trans": "waaāmanahum"
+    },
+    {
+      "sura": 106,
+      "aya": 4,
+      "word": 6,
+      "ar": "مِّنْ",
+      "en": "[from]",
+      "id": "dari",
+      "trans": "mmin"
+    },
+    {
+      "sura": 106,
+      "aya": 4,
+      "word": 7,
+      "ar": "خَوْفٍۢ",
+      "en": "fear.",
+      "id": "ketakutan",
+      "trans": "khawfin"
+    }
+  ],
+  "107": [
+    {
+      "sura": 107,
+      "aya": 1,
+      "word": 1,
+      "ar": "أَرَءَيْتَ",
+      "en": "Have you seen",
+      "id": "tahukah kamu",
+      "trans": "araayta"
+    },
+    {
+      "sura": 107,
+      "aya": 1,
+      "word": 2,
+      "ar": "الَّذِى",
+      "en": "the one who",
+      "id": "yang",
+      "trans": "alladhiā"
+    },
+    {
+      "sura": 107,
+      "aya": 1,
+      "word": 3,
+      "ar": "يُكَذِّبُ",
+      "en": "denies",
+      "id": "dia mendustakan",
+      "trans": "yukadhhibu"
+    },
+    {
+      "sura": 107,
+      "aya": 1,
+      "word": 4,
+      "ar": "بِالدِّينِ",
+      "en": "the Judgment?",
+      "id": "dengan agama",
+      "trans": "biad-diyni"
+    },
+    {
+      "sura": 107,
+      "aya": 2,
+      "word": 1,
+      "ar": "فَذٰلِكَ",
+      "en": "Then that",
+      "id": "maka itulah",
+      "trans": "fadhaalika"
+    },
+    {
+      "sura": 107,
+      "aya": 2,
+      "word": 2,
+      "ar": "الَّذِى",
+      "en": "(is) the one who",
+      "id": "yang",
+      "trans": "alladhiā"
+    },
+    {
+      "sura": 107,
+      "aya": 2,
+      "word": 3,
+      "ar": "يَدُعُّ",
+      "en": "repulses",
+      "id": "dia menghardik",
+      "trans": "yaduʿʿu"
+    },
+    {
+      "sura": 107,
+      "aya": 2,
+      "word": 4,
+      "ar": "الْيَتِيمَ",
+      "en": "the orphan,",
+      "id": "anak yatim",
+      "trans": "alyatiyma"
+    },
+    {
+      "sura": 107,
+      "aya": 3,
+      "word": 1,
+      "ar": "وَلَا",
+      "en": "And (does) not",
+      "id": "dan tidak",
+      "trans": "walaā"
+    },
+    {
+      "sura": 107,
+      "aya": 3,
+      "word": 2,
+      "ar": "يَحُضُّ",
+      "en": "feel the urge",
+      "id": "menganjurkan",
+      "trans": "yahuḍḍu"
+    },
+    {
+      "sura": 107,
+      "aya": 3,
+      "word": 3,
+      "ar": "عَلٰى",
+      "en": "to",
+      "id": "atas",
+      "trans": "ʿalaāa"
+    },
+    {
+      "sura": 107,
+      "aya": 3,
+      "word": 4,
+      "ar": "طَعَامِ",
+      "en": "feed",
+      "id": "memberi makan",
+      "trans": "ṭaʿaāmi"
+    },
+    {
+      "sura": 107,
+      "aya": 3,
+      "word": 5,
+      "ar": "الْمِسْكِينِ",
+      "en": "the poor.",
+      "id": "orang miskin",
+      "trans": "almiskiyni"
+    },
+    {
+      "sura": 107,
+      "aya": 4,
+      "word": 1,
+      "ar": "فَوَيْلٌ",
+      "en": "So woe",
+      "id": "maka celakalah",
+      "trans": "fawaylun"
+    },
+    {
+      "sura": 107,
+      "aya": 4,
+      "word": 2,
+      "ar": "لِّلْمُصَلِّينَ",
+      "en": "to those who pray,",
+      "id": "orang yang sholat",
+      "trans": "llilmuṣalliyna"
+    },
+    {
+      "sura": 107,
+      "aya": 5,
+      "word": 1,
+      "ar": "الَّذِينَ",
+      "en": "Those who",
+      "id": "orang-orang yang",
+      "trans": "alladhiyna"
+    },
+    {
+      "sura": 107,
+      "aya": 5,
+      "word": 2,
+      "ar": "هُمْ",
+      "en": "[they]",
+      "id": "mereka",
+      "trans": "hum"
+    },
+    {
+      "sura": 107,
+      "aya": 5,
+      "word": 3,
+      "ar": "عَن",
+      "en": "about",
+      "id": "dar",
+      "trans": "ʿan"
+    },
+    {
+      "sura": 107,
+      "aya": 5,
+      "word": 4,
+      "ar": "صَلَاتِهِمْ",
+      "en": "their prayers",
+      "id": "sholat mereka",
+      "trans": "ṣalaātihim"
+    },
+    {
+      "sura": 107,
+      "aya": 5,
+      "word": 5,
+      "ar": "سَاهُونَ",
+      "en": "(are) neglectful,",
+      "id": "lalai",
+      "trans": "saāhuwna"
+    },
+    {
+      "sura": 107,
+      "aya": 6,
+      "word": 1,
+      "ar": "الَّذِينَ",
+      "en": "Those who",
+      "id": "orang-orang yang",
+      "trans": "alladhiyna"
+    },
+    {
+      "sura": 107,
+      "aya": 6,
+      "word": 2,
+      "ar": "هُمْ",
+      "en": "[they]",
+      "id": "mereka",
+      "trans": "hum"
+    },
+    {
+      "sura": 107,
+      "aya": 6,
+      "word": 3,
+      "ar": "يُرَآءُونَ",
+      "en": "make show.",
+      "id": "mereka berbuat ria",
+      "trans": "yuraāuwna"
+    },
+    {
+      "sura": 107,
+      "aya": 7,
+      "word": 1,
+      "ar": "وَيَمْنَعُونَ",
+      "en": "And they deny",
+      "id": "dan mereka mencegah/enggan",
+      "trans": "wayamnaʿuwna"
+    },
+    {
+      "sura": 107,
+      "aya": 7,
+      "word": 2,
+      "ar": "الْمَاعُونَ",
+      "en": "[the] small kindnesses.",
+      "id": "pertolongan",
+      "trans": "almaāʿuwna"
+    }
+  ],
+  "108": [
+    {
+      "sura": 108,
+      "aya": 1,
+      "word": 1,
+      "ar": "إِنَّآ",
+      "en": "Indeed, We,",
+      "id": "sesungguhnya",
+      "trans": "innaā"
+    },
+    {
+      "sura": 108,
+      "aya": 1,
+      "word": 2,
+      "ar": "أَعْطَيْنٰكَ",
+      "en": "We have given you",
+      "id": "Aku telah memberikan",
+      "trans": "aʿṭaynaaka"
+    },
+    {
+      "sura": 108,
+      "aya": 1,
+      "word": 3,
+      "ar": "الْكَوْثَرَ",
+      "en": "Al-Kauthar,",
+      "id": "nikmat yang banyak",
+      "trans": "alkawthara"
+    },
+    {
+      "sura": 108,
+      "aya": 2,
+      "word": 1,
+      "ar": "فَصَلِّ",
+      "en": "So pray",
+      "id": "maka dirikanlah sholat",
+      "trans": "faṣalli"
+    },
+    {
+      "sura": 108,
+      "aya": 2,
+      "word": 2,
+      "ar": "لِرَبِّكَ",
+      "en": "to your Lord",
+      "id": "karena Tuhanmu",
+      "trans": "lirabbika"
+    },
+    {
+      "sura": 108,
+      "aya": 2,
+      "word": 3,
+      "ar": "وَانْحَرْ",
+      "en": "and sacrifice.",
+      "id": "dan berkurbanlah",
+      "trans": "waanhar"
+    },
+    {
+      "sura": 108,
+      "aya": 3,
+      "word": 1,
+      "ar": "إِنَّ",
+      "en": "Indeed,",
+      "id": "sesungguhnya",
+      "trans": "inna"
+    },
+    {
+      "sura": 108,
+      "aya": 3,
+      "word": 2,
+      "ar": "شَانِئَكَ",
+      "en": "your enemy -",
+      "id": "orang yang membencimu",
+      "trans": "shaāniaka"
+    },
+    {
+      "sura": 108,
+      "aya": 3,
+      "word": 3,
+      "ar": "هُوَ",
+      "en": "he (is)",
+      "id": "dia",
+      "trans": "huwa"
+    },
+    {
+      "sura": 108,
+      "aya": 3,
+      "word": 4,
+      "ar": "الْأَبْتَرُ",
+      "en": "the one cut off.",
+      "id": "terputus",
+      "trans": "alabtaru"
+    }
+  ],
+  "109": [
+    {
+      "sura": 109,
+      "aya": 1,
+      "word": 1,
+      "ar": "قُلْ",
+      "en": "Say,",
+      "id": "katakanlah",
+      "trans": "qul"
+    },
+    {
+      "sura": 109,
+      "aya": 1,
+      "word": 2,
+      "ar": "يٰٓأَيُّهَا",
+      "en": "\"O",
+      "id": "wahai",
+      "trans": "yaaayyuhaā"
+    },
+    {
+      "sura": 109,
+      "aya": 1,
+      "word": 3,
+      "ar": "الْكٰفِرُونَ",
+      "en": "disbelievers!",
+      "id": "orang-orang kafir",
+      "trans": "alkaafiruwna"
+    },
+    {
+      "sura": 109,
+      "aya": 2,
+      "word": 1,
+      "ar": "لَآ",
+      "en": "Not",
+      "id": "tidak",
+      "trans": "laā"
+    },
+    {
+      "sura": 109,
+      "aya": 2,
+      "word": 2,
+      "ar": "أَعْبُدُ",
+      "en": "I worship",
+      "id": "aku menyembah",
+      "trans": "aʿbudu"
+    },
+    {
+      "sura": 109,
+      "aya": 2,
+      "word": 3,
+      "ar": "مَا",
+      "en": "what",
+      "id": "apa",
+      "trans": "maā"
+    },
+    {
+      "sura": 109,
+      "aya": 2,
+      "word": 4,
+      "ar": "تَعْبُدُونَ",
+      "en": "you worship.",
+      "id": "kamu sembah",
+      "trans": "taʿbuduwna"
+    },
+    {
+      "sura": 109,
+      "aya": 3,
+      "word": 1,
+      "ar": "وَلَآ",
+      "en": "And not",
+      "id": "dan tidak",
+      "trans": "walaā"
+    },
+    {
+      "sura": 109,
+      "aya": 3,
+      "word": 2,
+      "ar": "أَنتُمْ",
+      "en": "you",
+      "id": "kamu",
+      "trans": "antum"
+    },
+    {
+      "sura": 109,
+      "aya": 3,
+      "word": 3,
+      "ar": "عٰبِدُونَ",
+      "en": "(are) worshippers",
+      "id": "menyembah",
+      "trans": "ʿaabiduwna"
+    },
+    {
+      "sura": 109,
+      "aya": 3,
+      "word": 4,
+      "ar": "مَآ",
+      "en": "(of) what",
+      "id": "apa",
+      "trans": "maā"
+    },
+    {
+      "sura": 109,
+      "aya": 3,
+      "word": 5,
+      "ar": "أَعْبُدُ",
+      "en": "I worship",
+      "id": "aku sembah",
+      "trans": "aʿbudu"
+    },
+    {
+      "sura": 109,
+      "aya": 4,
+      "word": 1,
+      "ar": "وَلَآ",
+      "en": "And not",
+      "id": "dan bukanlah",
+      "trans": "walaā"
+    },
+    {
+      "sura": 109,
+      "aya": 4,
+      "word": 2,
+      "ar": "أَنَا۠",
+      "en": "I am",
+      "id": "aku",
+      "trans": "anaā"
+    },
+    {
+      "sura": 109,
+      "aya": 4,
+      "word": 3,
+      "ar": "عَابِدٌ",
+      "en": "a worshipper",
+      "id": "menjadi penyembah",
+      "trans": "ʿaābidun"
+    },
+    {
+      "sura": 109,
+      "aya": 4,
+      "word": 4,
+      "ar": "مَّا",
+      "en": "(of) what",
+      "id": "apa",
+      "trans": "mmaā"
+    },
+    {
+      "sura": 109,
+      "aya": 4,
+      "word": 5,
+      "ar": "عَبَدتُّمْ",
+      "en": "you worship.",
+      "id": "kamu sembah",
+      "trans": "ʿabadttum"
+    },
+    {
+      "sura": 109,
+      "aya": 5,
+      "word": 1,
+      "ar": "وَلَآ",
+      "en": "And not",
+      "id": "dan bukanlah",
+      "trans": "walaā"
+    },
+    {
+      "sura": 109,
+      "aya": 5,
+      "word": 2,
+      "ar": "أَنتُمْ",
+      "en": "you",
+      "id": "kamu",
+      "trans": "antum"
+    },
+    {
+      "sura": 109,
+      "aya": 5,
+      "word": 3,
+      "ar": "عٰبِدُونَ",
+      "en": "(are) worshippers",
+      "id": "menyembah",
+      "trans": "ʿaabiduwna"
+    },
+    {
+      "sura": 109,
+      "aya": 5,
+      "word": 4,
+      "ar": "مَآ",
+      "en": "(of) what",
+      "id": "apa",
+      "trans": "maā"
+    },
+    {
+      "sura": 109,
+      "aya": 5,
+      "word": 5,
+      "ar": "أَعْبُدُ",
+      "en": "I worship.",
+      "id": "aku sembah",
+      "trans": "aʿbudu"
+    },
+    {
+      "sura": 109,
+      "aya": 6,
+      "word": 1,
+      "ar": "لَكُمْ",
+      "en": "For you",
+      "id": "bagi kalian",
+      "trans": "lakum"
+    },
+    {
+      "sura": 109,
+      "aya": 6,
+      "word": 2,
+      "ar": "دِينُكُمْ",
+      "en": "(is) your religion,",
+      "id": "agamamu",
+      "trans": "diynukum"
+    },
+    {
+      "sura": 109,
+      "aya": 6,
+      "word": 3,
+      "ar": "وَلِىَ",
+      "en": "and for me",
+      "id": "bagiku",
+      "trans": "waliāa"
+    },
+    {
+      "sura": 109,
+      "aya": 6,
+      "word": 4,
+      "ar": "دِينِ",
+      "en": "(is) my religion.\"",
+      "id": "agamaku",
+      "trans": "diyni"
+    }
+  ],
+  "110": [
+    {
+      "sura": 110,
+      "aya": 1,
+      "word": 1,
+      "ar": "إِذَا",
+      "en": "When",
+      "id": "apabila",
+      "trans": "idhaā"
+    },
+    {
+      "sura": 110,
+      "aya": 1,
+      "word": 2,
+      "ar": "جَآءَ",
+      "en": "comes",
+      "id": "datang",
+      "trans": "jaāa"
+    },
+    {
+      "sura": 110,
+      "aya": 1,
+      "word": 3,
+      "ar": "نَصْرُ",
+      "en": "(the) Help",
+      "id": "pertolongan",
+      "trans": "naṣru"
+    },
+    {
+      "sura": 110,
+      "aya": 1,
+      "word": 4,
+      "ar": "اللَّهِ",
+      "en": "(of) Allah",
+      "id": "Allah",
+      "trans": "al-lahi"
+    },
+    {
+      "sura": 110,
+      "aya": 1,
+      "word": 5,
+      "ar": "وَالْفَتْحُ",
+      "en": "and the Victory,",
+      "id": "dan kemenangan",
+      "trans": "waalfathu"
+    },
+    {
+      "sura": 110,
+      "aya": 2,
+      "word": 1,
+      "ar": "وَرَأَيْتَ",
+      "en": "And you see",
+      "id": "dan kamu lihat",
+      "trans": "waraayta"
+    },
+    {
+      "sura": 110,
+      "aya": 2,
+      "word": 2,
+      "ar": "النَّاسَ",
+      "en": "the people",
+      "id": "manusia",
+      "trans": "an-naāsa"
+    },
+    {
+      "sura": 110,
+      "aya": 2,
+      "word": 3,
+      "ar": "يَدْخُلُونَ",
+      "en": "entering",
+      "id": "masuk",
+      "trans": "yadkhuluwna"
+    },
+    {
+      "sura": 110,
+      "aya": 2,
+      "word": 4,
+      "ar": "فِى",
+      "en": "into",
+      "id": "kedalam",
+      "trans": "fiā"
+    },
+    {
+      "sura": 110,
+      "aya": 2,
+      "word": 5,
+      "ar": "دِينِ",
+      "en": "(the) religion",
+      "id": "agama",
+      "trans": "diyni"
+    },
+    {
+      "sura": 110,
+      "aya": 2,
+      "word": 6,
+      "ar": "اللَّهِ",
+      "en": "(of) Allah",
+      "id": "Allah",
+      "trans": "al-lahi"
+    },
+    {
+      "sura": 110,
+      "aya": 2,
+      "word": 7,
+      "ar": "أَفْوَاجًا",
+      "en": "(in) multitudes.",
+      "id": "berbondong-bondong",
+      "trans": "afwaājanā"
+    },
+    {
+      "sura": 110,
+      "aya": 3,
+      "word": 1,
+      "ar": "فَسَبِّحْ",
+      "en": "Then glorify",
+      "id": "maka bertasbihlah",
+      "trans": "fasabbih"
+    },
+    {
+      "sura": 110,
+      "aya": 3,
+      "word": 2,
+      "ar": "بِحَمْدِ",
+      "en": "with (the) praises",
+      "id": "dengan memuji",
+      "trans": "bihamdi"
+    },
+    {
+      "sura": 110,
+      "aya": 3,
+      "word": 3,
+      "ar": "رَبِّكَ",
+      "en": "(of) your Lord",
+      "id": "Tuhanmu",
+      "trans": "rabbika"
+    },
+    {
+      "sura": 110,
+      "aya": 3,
+      "word": 4,
+      "ar": "وَاسْتَغْفِرْهُ",
+      "en": "and ask His forgiveness.",
+      "id": "dan mohonlah ampun",
+      "trans": "waastaghfirhu"
+    },
+    {
+      "sura": 110,
+      "aya": 3,
+      "word": 5,
+      "ar": "إِنَّهُۥ",
+      "en": "Indeed, He",
+      "id": "sesungguhnya Dia",
+      "trans": "innahu"
+    },
+    {
+      "sura": 110,
+      "aya": 3,
+      "word": 6,
+      "ar": "كَانَ",
+      "en": "is",
+      "id": "adalah Dia",
+      "trans": "kaāna"
+    },
+    {
+      "sura": 110,
+      "aya": 3,
+      "word": 7,
+      "ar": "تَوَّابًۢا",
+      "en": "Oft-Returning.",
+      "id": "Maha Penerima Taubat",
+      "trans": "tawwaābanā"
+    }
+  ],
+  "111": [
+    {
+      "sura": 111,
+      "aya": 1,
+      "word": 1,
+      "ar": "تَبَّتْ",
+      "en": "Perish",
+      "id": "binasalah",
+      "trans": "tabbat"
+    },
+    {
+      "sura": 111,
+      "aya": 1,
+      "word": 2,
+      "ar": "يَدَآ",
+      "en": "(the) hands",
+      "id": "kedua tangan",
+      "trans": "yadaā"
+    },
+    {
+      "sura": 111,
+      "aya": 1,
+      "word": 3,
+      "ar": "أَبِى",
+      "en": "(of) Abu",
+      "id": "Abu",
+      "trans": "abiā"
+    },
+    {
+      "sura": 111,
+      "aya": 1,
+      "word": 4,
+      "ar": "لَهَبٍ",
+      "en": "Lahab",
+      "id": "Lahab",
+      "trans": "lahabin"
+    },
+    {
+      "sura": 111,
+      "aya": 1,
+      "word": 5,
+      "ar": "وَتَبَّ",
+      "en": "and perish he.",
+      "id": "sebenar-benar binasa",
+      "trans": "watabba"
+    },
+    {
+      "sura": 111,
+      "aya": 2,
+      "word": 1,
+      "ar": "مَآ",
+      "en": "Not",
+      "id": "tidak",
+      "trans": "maā"
+    },
+    {
+      "sura": 111,
+      "aya": 2,
+      "word": 2,
+      "ar": "أَغْنٰى",
+      "en": "(will) avail",
+      "id": "berguna",
+      "trans": "aghnaāa"
+    },
+    {
+      "sura": 111,
+      "aya": 2,
+      "word": 3,
+      "ar": "عَنْهُ",
+      "en": "him",
+      "id": "dari padanya/kepadanya",
+      "trans": "ʿanhu"
+    },
+    {
+      "sura": 111,
+      "aya": 2,
+      "word": 4,
+      "ar": "مَالُهُۥ",
+      "en": "his wealth",
+      "id": "hartanya",
+      "trans": "maāluhu"
+    },
+    {
+      "sura": 111,
+      "aya": 2,
+      "word": 5,
+      "ar": "وَمَا",
+      "en": "and what",
+      "id": "dan apa",
+      "trans": "wamaā"
+    },
+    {
+      "sura": 111,
+      "aya": 2,
+      "word": 6,
+      "ar": "كَسَبَ",
+      "en": "he earned.",
+      "id": "yang ia usahakan",
+      "trans": "kasaba"
+    },
+    {
+      "sura": 111,
+      "aya": 3,
+      "word": 1,
+      "ar": "سَيَصْلٰى",
+      "en": "He will be burnt",
+      "id": "kelak ia akan masuk",
+      "trans": "sayaṣlaāa"
+    },
+    {
+      "sura": 111,
+      "aya": 3,
+      "word": 2,
+      "ar": "نَارًا",
+      "en": "(in) a Fire",
+      "id": "api",
+      "trans": "naāranā"
+    },
+    {
+      "sura": 111,
+      "aya": 3,
+      "word": 3,
+      "ar": "ذَاتَ",
+      "en": "of",
+      "id": "mempunyai",
+      "trans": "dhaāta"
+    },
+    {
+      "sura": 111,
+      "aya": 3,
+      "word": 4,
+      "ar": "لَهَبٍ",
+      "en": "Blazing Flames,",
+      "id": "begejolak",
+      "trans": "lahabin"
+    },
+    {
+      "sura": 111,
+      "aya": 4,
+      "word": 1,
+      "ar": "وَامْرَأَتُهُۥ",
+      "en": "And his wife,",
+      "id": "dan istrinya",
+      "trans": "waamraatuhu"
+    },
+    {
+      "sura": 111,
+      "aya": 4,
+      "word": 2,
+      "ar": "حَمَّالَةَ",
+      "en": "(the) carrier",
+      "id": "pembawa",
+      "trans": "hammaālata"
+    },
+    {
+      "sura": 111,
+      "aya": 4,
+      "word": 3,
+      "ar": "الْحَطَبِ",
+      "en": "(of) firewood,",
+      "id": "kayu bakar",
+      "trans": "alhaṭabi"
+    },
+    {
+      "sura": 111,
+      "aya": 5,
+      "word": 1,
+      "ar": "فِى",
+      "en": "In",
+      "id": "pada",
+      "trans": "fiā"
+    },
+    {
+      "sura": 111,
+      "aya": 5,
+      "word": 2,
+      "ar": "جِيدِهَا",
+      "en": "her neck",
+      "id": "lehernya",
+      "trans": "jiydihaā"
+    },
+    {
+      "sura": 111,
+      "aya": 5,
+      "word": 3,
+      "ar": "حَبْلٌ",
+      "en": "(will be) a rope",
+      "id": "tali",
+      "trans": "hablun"
+    },
+    {
+      "sura": 111,
+      "aya": 5,
+      "word": 4,
+      "ar": "مِّن",
+      "en": "of",
+      "id": "dari",
+      "trans": "mmin"
+    },
+    {
+      "sura": 111,
+      "aya": 5,
+      "word": 5,
+      "ar": "مَّسَدٍۢ",
+      "en": "palm-fiber.",
+      "id": "sabut",
+      "trans": "mmasadin"
+    }
+  ],
+  "112": [
+    {
+      "sura": 112,
+      "aya": 1,
+      "word": 1,
+      "ar": "قُلْ",
+      "en": "Say,",
+      "id": "katakanlah",
+      "trans": "qul"
+    },
+    {
+      "sura": 112,
+      "aya": 1,
+      "word": 2,
+      "ar": "هُوَ",
+      "en": "\"He",
+      "id": "Dia",
+      "trans": "huwa"
+    },
+    {
+      "sura": 112,
+      "aya": 1,
+      "word": 3,
+      "ar": "اللَّهُ",
+      "en": "(is) Allah,",
+      "id": "Allah",
+      "trans": "al-lahu"
+    },
+    {
+      "sura": 112,
+      "aya": 1,
+      "word": 4,
+      "ar": "أَحَدٌ",
+      "en": "the One.",
+      "id": "Esa",
+      "trans": "ahadun"
+    },
+    {
+      "sura": 112,
+      "aya": 2,
+      "word": 1,
+      "ar": "اللَّهُ",
+      "en": "Allah,",
+      "id": "Allah",
+      "trans": "al-lahu"
+    },
+    {
+      "sura": 112,
+      "aya": 2,
+      "word": 2,
+      "ar": "الصَّمَدُ",
+      "en": "the Eternal, the Absolute.",
+      "id": "tempat bergantung",
+      "trans": "aṣ-ṣamadu"
+    },
+    {
+      "sura": 112,
+      "aya": 3,
+      "word": 1,
+      "ar": "لَمْ",
+      "en": "Not",
+      "id": "tidak",
+      "trans": "lam"
+    },
+    {
+      "sura": 112,
+      "aya": 3,
+      "word": 2,
+      "ar": "يَلِدْ",
+      "en": "He begets",
+      "id": "beranak",
+      "trans": "yalid"
+    },
+    {
+      "sura": 112,
+      "aya": 3,
+      "word": 3,
+      "ar": "وَلَمْ",
+      "en": "and not",
+      "id": "dan tidak",
+      "trans": "walam"
+    },
+    {
+      "sura": 112,
+      "aya": 3,
+      "word": 4,
+      "ar": "يُولَدْ",
+      "en": "He is begotten.",
+      "id": "diperanakkan",
+      "trans": "yuwlad"
+    },
+    {
+      "sura": 112,
+      "aya": 4,
+      "word": 1,
+      "ar": "وَلَمْ",
+      "en": "And not",
+      "id": "dan tidak",
+      "trans": "walam"
+    },
+    {
+      "sura": 112,
+      "aya": 4,
+      "word": 2,
+      "ar": "يَكُن",
+      "en": "is",
+      "id": "ada",
+      "trans": "yakun"
+    },
+    {
+      "sura": 112,
+      "aya": 4,
+      "word": 3,
+      "ar": "لَّهُۥ",
+      "en": "for Him",
+      "id": "baginya",
+      "trans": "llahu"
+    },
+    {
+      "sura": 112,
+      "aya": 4,
+      "word": 4,
+      "ar": "كُفُوًا",
+      "en": "equivalent",
+      "id": "menyamai/setara",
+      "trans": "kufuwanā"
+    },
+    {
+      "sura": 112,
+      "aya": 4,
+      "word": 5,
+      "ar": "أَحَدٌۢ",
+      "en": "any [one].\"",
+      "id": "seorang",
+      "trans": "ahadun"
+    }
+  ],
+  "113": [
+    {
+      "sura": 113,
+      "aya": 1,
+      "word": 1,
+      "ar": "قُلْ",
+      "en": "Say,",
+      "id": "katakanlah",
+      "trans": "qul"
+    },
+    {
+      "sura": 113,
+      "aya": 1,
+      "word": 2,
+      "ar": "أَعُوذُ",
+      "en": "\"I seek refuge",
+      "id": "aku berlindung",
+      "trans": "aʿuwdhu"
+    },
+    {
+      "sura": 113,
+      "aya": 1,
+      "word": 3,
+      "ar": "بِرَبِّ",
+      "en": "in (the) Lord",
+      "id": "Tuhan/Pemelihara",
+      "trans": "birabbi"
+    },
+    {
+      "sura": 113,
+      "aya": 1,
+      "word": 4,
+      "ar": "الْفَلَقِ",
+      "en": "(of) the dawn,",
+      "id": "subuh",
+      "trans": "alfalaqi"
+    },
+    {
+      "sura": 113,
+      "aya": 2,
+      "word": 1,
+      "ar": "مِن",
+      "en": "From",
+      "id": "dari",
+      "trans": "min"
+    },
+    {
+      "sura": 113,
+      "aya": 2,
+      "word": 2,
+      "ar": "شَرِّ",
+      "en": "(the) evil",
+      "id": "kejahatan",
+      "trans": "sharri"
+    },
+    {
+      "sura": 113,
+      "aya": 2,
+      "word": 3,
+      "ar": "مَا",
+      "en": "(of) what",
+      "id": "apa",
+      "trans": "maā"
+    },
+    {
+      "sura": 113,
+      "aya": 2,
+      "word": 4,
+      "ar": "خَلَقَ",
+      "en": "He created,",
+      "id": "Dia ciptakan",
+      "trans": "khalaqa"
+    },
+    {
+      "sura": 113,
+      "aya": 3,
+      "word": 1,
+      "ar": "وَمِن",
+      "en": "And from",
+      "id": "dan dari",
+      "trans": "wamin"
+    },
+    {
+      "sura": 113,
+      "aya": 3,
+      "word": 2,
+      "ar": "شَرِّ",
+      "en": "(the) evil",
+      "id": "kejahatan",
+      "trans": "sharri"
+    },
+    {
+      "sura": 113,
+      "aya": 3,
+      "word": 3,
+      "ar": "غَاسِقٍ",
+      "en": "(of) darkness",
+      "id": "malam yang gelap",
+      "trans": "ghaāsiqin"
+    },
+    {
+      "sura": 113,
+      "aya": 3,
+      "word": 4,
+      "ar": "إِذَا",
+      "en": "when",
+      "id": "apabila",
+      "trans": "idhaā"
+    },
+    {
+      "sura": 113,
+      "aya": 3,
+      "word": 5,
+      "ar": "وَقَبَ",
+      "en": "it spreads",
+      "id": "telah gelap/kelam",
+      "trans": "waqaba"
+    },
+    {
+      "sura": 113,
+      "aya": 4,
+      "word": 1,
+      "ar": "وَمِن",
+      "en": "And from",
+      "id": "dan dari",
+      "trans": "wamin"
+    },
+    {
+      "sura": 113,
+      "aya": 4,
+      "word": 2,
+      "ar": "شَرِّ",
+      "en": "(the) evil",
+      "id": "kejahatan",
+      "trans": "sharri"
+    },
+    {
+      "sura": 113,
+      "aya": 4,
+      "word": 3,
+      "ar": "النَّفّٰثٰتِ",
+      "en": "(of) the blowers",
+      "id": "orang yang meniup-niup",
+      "trans": "an-naffaathaati"
+    },
+    {
+      "sura": 113,
+      "aya": 4,
+      "word": 4,
+      "ar": "فِى",
+      "en": "in",
+      "id": "dalam",
+      "trans": "fiā"
+    },
+    {
+      "sura": 113,
+      "aya": 4,
+      "word": 5,
+      "ar": "الْعُقَدِ",
+      "en": "the knots,",
+      "id": "ikatan/simpul",
+      "trans": "alʿuqadi"
+    },
+    {
+      "sura": 113,
+      "aya": 5,
+      "word": 1,
+      "ar": "وَمِن",
+      "en": "And from",
+      "id": "dan dari",
+      "trans": "wamin"
+    },
+    {
+      "sura": 113,
+      "aya": 5,
+      "word": 2,
+      "ar": "شَرِّ",
+      "en": "(the) evil",
+      "id": "kejahatan",
+      "trans": "sharri"
+    },
+    {
+      "sura": 113,
+      "aya": 5,
+      "word": 3,
+      "ar": "حَاسِدٍ",
+      "en": "(of) an envier",
+      "id": "orang yang dengki",
+      "trans": "haāsidin"
+    },
+    {
+      "sura": 113,
+      "aya": 5,
+      "word": 4,
+      "ar": "إِذَا",
+      "en": "when",
+      "id": "apabila",
+      "trans": "idhaā"
+    },
+    {
+      "sura": 113,
+      "aya": 5,
+      "word": 5,
+      "ar": "حَسَدَ",
+      "en": "he envies.\"",
+      "id": "ia dengki",
+      "trans": "hasada"
+    }
+  ],
+  "114": [
+    {
+      "sura": 114,
+      "aya": 1,
+      "word": 1,
+      "ar": "قُلْ",
+      "en": "Say,",
+      "id": "katakanlah",
+      "trans": "qul"
+    },
+    {
+      "sura": 114,
+      "aya": 1,
+      "word": 2,
+      "ar": "أَعُوذُ",
+      "en": "\"I seek refuge",
+      "id": "aku berlindung",
+      "trans": "aʿuwdhu"
+    },
+    {
+      "sura": 114,
+      "aya": 1,
+      "word": 3,
+      "ar": "بِرَبِّ",
+      "en": "in (the) Lord",
+      "id": "Tuhannya",
+      "trans": "birabbi"
+    },
+    {
+      "sura": 114,
+      "aya": 1,
+      "word": 4,
+      "ar": "النَّاسِ",
+      "en": "(of) mankind,",
+      "id": "manusia",
+      "trans": "an-naāsi"
+    },
+    {
+      "sura": 114,
+      "aya": 2,
+      "word": 1,
+      "ar": "مَلِكِ",
+      "en": "(The) King",
+      "id": "Rajanya",
+      "trans": "maliki"
+    },
+    {
+      "sura": 114,
+      "aya": 2,
+      "word": 2,
+      "ar": "النَّاسِ",
+      "en": "(of) mankind,",
+      "id": "manusia",
+      "trans": "an-naāsi"
+    },
+    {
+      "sura": 114,
+      "aya": 3,
+      "word": 1,
+      "ar": "إِلٰهِ",
+      "en": "(The) God",
+      "id": "Tuhannya",
+      "trans": "ilaahi"
+    },
+    {
+      "sura": 114,
+      "aya": 3,
+      "word": 2,
+      "ar": "النَّاسِ",
+      "en": "(of) mankind,",
+      "id": "manusia",
+      "trans": "an-naāsi"
+    },
+    {
+      "sura": 114,
+      "aya": 4,
+      "word": 1,
+      "ar": "مِن",
+      "en": "From",
+      "id": "dari",
+      "trans": "min"
+    },
+    {
+      "sura": 114,
+      "aya": 4,
+      "word": 2,
+      "ar": "شَرِّ",
+      "en": "(the) evil",
+      "id": "kejahatan",
+      "trans": "sharri"
+    },
+    {
+      "sura": 114,
+      "aya": 4,
+      "word": 3,
+      "ar": "الْوَسْوَاسِ",
+      "en": "(of) the whisperer,",
+      "id": "bisikkan",
+      "trans": "alwaswaāsi"
+    },
+    {
+      "sura": 114,
+      "aya": 4,
+      "word": 4,
+      "ar": "الْخَنَّاسِ",
+      "en": "the one who withdraws,",
+      "id": "menunggu-nunggu/bersembunyi",
+      "trans": "alkhannaāsi"
+    },
+    {
+      "sura": 114,
+      "aya": 5,
+      "word": 1,
+      "ar": "الَّذِى",
+      "en": "The one who",
+      "id": "yang",
+      "trans": "alladhiā"
+    },
+    {
+      "sura": 114,
+      "aya": 5,
+      "word": 2,
+      "ar": "يُوَسْوِسُ",
+      "en": "whispers",
+      "id": "membisik-bisikan",
+      "trans": "yuwaswisu"
+    },
+    {
+      "sura": 114,
+      "aya": 5,
+      "word": 3,
+      "ar": "فِى",
+      "en": "in",
+      "id": "dalam",
+      "trans": "fiā"
+    },
+    {
+      "sura": 114,
+      "aya": 5,
+      "word": 4,
+      "ar": "صُدُورِ",
+      "en": "(the) breasts",
+      "id": "dada",
+      "trans": "ṣuduwri"
+    },
+    {
+      "sura": 114,
+      "aya": 5,
+      "word": 5,
+      "ar": "النَّاسِ",
+      "en": "(of) mankind,",
+      "id": "manusia",
+      "trans": "an-naāsi"
+    },
+    {
+      "sura": 114,
+      "aya": 6,
+      "word": 1,
+      "ar": "مِنَ",
+      "en": "From",
+      "id": "dari",
+      "trans": "mina"
+    },
+    {
+      "sura": 114,
+      "aya": 6,
+      "word": 2,
+      "ar": "الْجِنَّةِ",
+      "en": "the jinn",
+      "id": "jin",
+      "trans": "aljinnati"
+    },
+    {
+      "sura": 114,
+      "aya": 6,
+      "word": 3,
+      "ar": "وَالنَّاسِ",
+      "en": "and men.",
+      "id": "dan manusia",
+      "trans": "waan-naāsi"
+    }
+  ]
+}

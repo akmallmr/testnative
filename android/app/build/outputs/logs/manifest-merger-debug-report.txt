@@ -1,0 +1,254 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [:react-native-orientation] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-orientation/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-crop-picker] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-youtube] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-youtube/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:rn-fetch-blob] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-47:12
+MERGED from [:react-native-sound] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-sound/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-gesture-handler] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/dcbb7ba93aeb6191ddeb6898884cda38/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/54826693fc99cae295a96d519d0f020d/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b53a454468d29f970f780548a2434412/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4cc464429ac346b49344732ad594ff1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/891252c34c1b789c7cae6da4d391a8ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/244b06c40d93b9ab53a488b5fda20e9b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/be5ee2def8f67b7d61cd305b088bc2d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8a0b965a8a61e13341b9f6d515ca68dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6b46b5465823561d3b56d88ae220470f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/add6e3ce1ef955a395278f976516d4bb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/3cd57f2c59cc3440bfc2e5b4480388e8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/6b7f17bc9bd78fd92711fbf6e6b6a887/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/42ca608065accbb959e70e5ec37d10ee/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/f41af91059962b9bc47fca13786c1a10/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/515f1547958fd05591ca5db69496785e/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/573c86abd9012697d75f02143ba012c0/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/52f915a0ead7648443112fa612a8abc8/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5453a9936c1f6dac7fe7835ef00a5f08/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d939a69cbcfa8e0b84ba0d71320b456e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d7de97a9658cb75f668a5e79b67dc9e3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/69e3044d4446e153f7f29d9004528094/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:1:1-34:12
+	package
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:rn-fetch-blob] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:5:5-81
+MERGED from [:react-native-image-crop-picker] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-image-crop-picker] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+MERGED from [:rn-fetch-blob] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:5-81
+MERGED from [:rn-fetch-blob] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:6:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/54826693fc99cae295a96d519d0f020d/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/54826693fc99cae295a96d519d0f020d/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:6:22-75
+uses-permission#android.permission.CAMERA
+ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:8:22-77
+uses-feature#android.hardware.camera
+ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:9:5-85
+	android:required
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:9:58-82
+	android:name
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:9:19-57
+uses-feature#android.hardware.camera.front
+ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:10:5-91
+	android:required
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:10:64-88
+	android:name
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:10:19-63
+application
+ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:12:5-32:19
+MERGED from [:react-native-image-crop-picker] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-image-crop-picker] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:rn-fetch-blob] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/54826693fc99cae295a96d519d0f020d/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/54826693fc99cae295a96d519d0f020d/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/515f1547958fd05591ca5db69496785e/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/515f1547958fd05591ca5db69496785e/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/573c86abd9012697d75f02143ba012c0/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/573c86abd9012697d75f02143ba012c0/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:14:7-39
+	android:icon
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:15:7-41
+	android:allowBackup
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:16:7-34
+	android:theme
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:17:7-38
+	android:name
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:13:7-38
+activity#com.islamicmind_v2.MainActivity
+ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:18:7-30:18
+	android:screenOrientation
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:19:9-45
+	android:label
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:22:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:24:9-51
+	android:resizeableActivity
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:20:9-43
+	android:configChanges
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:23:9-79
+	android:name
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:21:9-37
+intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:25:9-29:25
+action#android.intent.action.MAIN
+ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:26:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:27:23-70
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:28:6-70
+	android:name
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:28:14-68
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:31:7-84
+	android:name
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:31:17-81
+uses-sdk
+INJECTED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-orientation] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-orientation/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-orientation] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-orientation/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-crop-picker] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-youtube] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-youtube/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-youtube] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-youtube/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sound] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-sound/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-sound] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-sound/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-gesture-handler] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/dcbb7ba93aeb6191ddeb6898884cda38/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/dcbb7ba93aeb6191ddeb6898884cda38/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/54826693fc99cae295a96d519d0f020d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/54826693fc99cae295a96d519d0f020d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b53a454468d29f970f780548a2434412/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b53a454468d29f970f780548a2434412/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4cc464429ac346b49344732ad594ff1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4cc464429ac346b49344732ad594ff1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/891252c34c1b789c7cae6da4d391a8ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/891252c34c1b789c7cae6da4d391a8ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/244b06c40d93b9ab53a488b5fda20e9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/244b06c40d93b9ab53a488b5fda20e9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/be5ee2def8f67b7d61cd305b088bc2d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/be5ee2def8f67b7d61cd305b088bc2d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8a0b965a8a61e13341b9f6d515ca68dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8a0b965a8a61e13341b9f6d515ca68dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6b46b5465823561d3b56d88ae220470f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6b46b5465823561d3b56d88ae220470f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/add6e3ce1ef955a395278f976516d4bb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/add6e3ce1ef955a395278f976516d4bb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/3cd57f2c59cc3440bfc2e5b4480388e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/3cd57f2c59cc3440bfc2e5b4480388e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/6b7f17bc9bd78fd92711fbf6e6b6a887/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/6b7f17bc9bd78fd92711fbf6e6b6a887/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/42ca608065accbb959e70e5ec37d10ee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/42ca608065accbb959e70e5ec37d10ee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/f41af91059962b9bc47fca13786c1a10/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/f41af91059962b9bc47fca13786c1a10/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/515f1547958fd05591ca5db69496785e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/515f1547958fd05591ca5db69496785e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/52f915a0ead7648443112fa612a8abc8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/52f915a0ead7648443112fa612a8abc8/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5453a9936c1f6dac7fe7835ef00a5f08/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5453a9936c1f6dac7fe7835ef00a5f08/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d939a69cbcfa8e0b84ba0d71320b456e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d939a69cbcfa8e0b84ba0d71320b456e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d7de97a9658cb75f668a5e79b67dc9e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d7de97a9658cb75f668a5e79b67dc9e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/69e3044d4446e153f7f29d9004528094/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/aegislabs/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/69e3044d4446e153f7f29d9004528094/AndroidManifest.xml:20:5-44
+INJECTED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml
+provider#android.support.v4.content.FileProvider
+ADDED from [:react-native-image-crop-picker] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-21:20
+MERGED from [:rn-fetch-blob] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:9-44:20
+MERGED from [:rn-fetch-blob] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:9-44:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:13-20:58
+MERGED from [:rn-fetch-blob] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:41:13-43:58
+MERGED from [:rn-fetch-blob] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:41:13-43:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:9-25:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:13-60
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:rn-fetch-blob] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:rn-fetch-blob] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:rn-fetch-blob] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/aegislabs/Documents/Project Akmal/islamicmind_V2/android/app/src/main/AndroidManifest.xml:1:1-34:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
